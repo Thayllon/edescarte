@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# edescarte
+# Sobre
 Web Service feito em php e laravel
 
 Crie um banco de dados e configure usuário e senha. 
