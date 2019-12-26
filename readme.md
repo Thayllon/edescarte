@@ -14,7 +14,9 @@ Crie um banco de dados e configure usuário e senha.
 
 Na raiz do projeto no arquivo .env da linha 9 a 14 são linhas que iremos usar para configurar o banco.
 
-Depois basta abrir a pasta do projeto no terminal e digitar o seguinte comando: #php artisan migrate 
+Depois basta abrir a pasta do projeto no terminal e digitar o seguinte comando: #php artisan migrate.
+
+Terá que criar um usuário no banco para fazer login na aplicação, pois, desabilitei a opção de criar novo usuário.
 
 Pronto, agora so abrir no navegador!
 
