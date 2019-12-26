@@ -10,7 +10,7 @@
 # Sobre
 Web Service feito em php e laravel
 
-Crie um banco de dados e configure usuário e senha. 
+Crie um banco de dados e configure usuário e senha (o banco deverá ser MySQL, caso contrário altere o arquivo config/database.php).
 
 Na raiz do projeto no arquivo .env da linha 9 a 14 são linhas que iremos usar para configurar o banco.
 
